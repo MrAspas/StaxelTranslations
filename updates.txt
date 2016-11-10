@@ -1,10 +1,11 @@
-.\de_DE.lang : 2502 untranslated entries.
-.\en_GB.lang : 132 untranslated entries.
-.\es_ES.lang : 2513 untranslated entries.
-.\fr_CA.lang : 2497 untranslated entries.
-.\fr_FR.lang : 2497 untranslated entries.
-.\ja_JP.lang : 2733 untranslated entries.
-.\nl_NL.lang : 2669 untranslated entries.
-.\pt_BR.lang : 2501 untranslated entries.
-.\ro_RO.lang : 2497 untranslated entries.
-.\sv_SE.lang : 2512 untranslated entries.
+.\es_ES.lang : Missing arg: {0-recipe} in line : hintText.recipeLearnt
+.\de_DE.lang : 2691 untranslated entries.
+.\en_GB.lang : 306 untranslated entries.
+.\es_ES.lang : 2522 untranslated entries.
+.\fr_CA.lang : 2685 untranslated entries.
+.\fr_FR.lang : 2660 untranslated entries.
+.\ja_JP.lang : 2914 untranslated entries.
+.\nl_NL.lang : 2858 untranslated entries.
+.\pt_BR.lang : 2690 untranslated entries.
+.\ro_RO.lang : 2665 untranslated entries.
+.\sv_SE.lang : 2701 untranslated entries.
